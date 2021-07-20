@@ -1,0 +1,5 @@
+Outil de versionning: GIT
+Plateforme de dépôt: GITHub
+Adresse des dépôts: https://github.com/JeremieAucher?tab=repositories
+Adresse de dépôt - Dashboard: https://github.com/JeremieAucher/P7_Dashboard
+Adresse de dépôt - API: https://github.com/JeremieAucher/P7_API
